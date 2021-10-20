@@ -25,6 +25,10 @@
 $ npm i get-deps-paths --save
 ```
 
+## Thanks to
+
+Thanks to the [get-dev-paths](https://github.com/aleclarson/get-dev-paths) for providing thoughts, after I did some improvements and refactorings.
+
 ## License
 
 The MIT License (MIT)
