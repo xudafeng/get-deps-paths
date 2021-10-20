@@ -1,6 +1,6 @@
 {
   "name": "get-deps-paths",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "get deps paths",
   "keywords": [
     "deps"
@@ -9,6 +9,11 @@
     "get-deps-paths": "./bin/get-deps-paths.js"
   },
   "main": "index.js",
+  "files": [
+    "index.js",
+    "bin/**/*.js",
+    "lib/**/*.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/xudafeng/get-deps-paths.git"
