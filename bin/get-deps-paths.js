@@ -6,4 +6,4 @@ const getDepsPaths = require('..');
 
 const cwd = process.cwd();
 
-console.log('paths:', getDepsPaths(cwd));
+console.log(getDepsPaths(cwd));
